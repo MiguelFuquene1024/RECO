@@ -1,0 +1,23 @@
+[prueba]
+	comment = Esto es una prueba
+	path = /home/prueba
+	read only = yes
+	browsable = yes
+	create mask = 0600
+	directory mask = 0700
+https://mirrors.slackware.com/slackware/slackware-current/slackware/n/httpd-2.4.10-i486-1.txz
+
+
+
+http://slackware.cs.utah.edu/pub/slackware/slackware64-14.1/slackware64/n/httpd-2.4.6-x86_64-1.txz
+
+libaprutil-1.so.0
+libgnutls
+
+[prueba]
+	comment = Esto es una prueba
+	path = /home/prueba
+	read only = yes
+	browsable = yes
+	create mask = 0600
+	directory mask = 0700c
